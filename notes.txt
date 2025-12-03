@@ -1,0 +1,1 @@
+Day 1: I Initialized my first Git repository.
