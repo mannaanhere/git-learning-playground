@@ -6,3 +6,7 @@ checked my GitHub profile and green contribution graph.
 Practiced daily commit workflow
 
 hey this is my second day with the GitHub trying to do it on my own 
+ 
+Finally i have learnt all the git command and able to pull push and commit 
+lets start the journey with git hub and end it on being a core ai-ml journey
+ 
