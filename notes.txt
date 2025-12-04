@@ -4,3 +4,5 @@ Day 1: I Initialized my first Git repository.
 Learned how to publish a repository to GitHub.
 checked my GitHub profile and green contribution graph.
 Practiced daily commit workflow
+
+hey this is my second day with the GitHub trying to do it on my own 
