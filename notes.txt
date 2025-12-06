@@ -9,4 +9,6 @@ hey this is my second day with the GitHub trying to do it on my own
  
 Finally i have learnt all the git command and able to pull push and commit 
 lets start the journey with git hub and end it on being a core ai-ml journey
+
+i have finally understood the mechanism of git and GitHub how it works and how developers use it to make their work visible to the recruiters
  
