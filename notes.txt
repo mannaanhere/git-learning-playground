@@ -1,14 +1,18 @@
 Day 1: I Initialized my first Git repository.
   
 
-Learned how to publish a repository to GitHub.
+Day 2: Learned how to publish a repository to GitHub.
 checked my GitHub profile and green contribution graph.
-Practiced daily commit workflow
+Practiced daily commit workflow.
 
-hey this is my second day with the GitHub trying to do it on my own 
+This is my second day with the GitHub trying to do it on my own 
  
 Finally i have learnt all the git command and able to pull push and commit 
-lets start the journey with git hub and end it on being a core ai-ml journey
+lets start the journey with git hub and end it on being a core ai-ml journey.
 
-i have finally understood the mechanism of git and GitHub how it works and how developers use it to make their work visible to the recruiters
+I have finally understood the mechanism of git and GitHub how it works and how developers use it to make their work visible to the recruiters.
+
+This git learning playground repository only to understand the daily workflow of commit.
+
+
  
